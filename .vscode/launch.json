@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-IftmApplication<iftm>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "queimando.iftm.IftmApplication",
+            "projectName": "iftm",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
